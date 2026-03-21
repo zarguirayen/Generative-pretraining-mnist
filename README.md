@@ -25,7 +25,7 @@ generative-pretraining-mnist/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
-├── notebooks/
+├── Notebook/
 │   └── final_notebook.ipynb
 ├── results/
 ├── report/
